@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ea9b579-24c3-4847-afb8-814250a97667" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c6ExiLPASzMvHu4bzHPM5dtNWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2971481" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Viji\IdeaProjects\SeleniumMavenBDD" />
+      <recent name="C:\Users\Viji\IdeaProjects\SeleniumMavenBDD\src\test\java\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRun">
+    <configuration name="All Features in: Features" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumMavenBDD" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Customers" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Customers.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumMavenBDD" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Customers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Login.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumMavenBDD" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Add a new Customer" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Customers.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumMavenBDD" />
+      <option name="NAME_FILTER" value="^Add a new Customer$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Add a new Customer$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add a new Customer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful Login with Valid Credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Login.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SeleniumMavenBDD" />
+      <option name="NAME_FILTER" value="^Successful Login with Valid Credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Successful Login with Valid Credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful Login with Valid Credentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumMavenBDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: Login" />
+      <item itemvalue="Cucumber java.Feature: Customers" />
+      <item itemvalue="Cucumber java.Scenario: Add a new Customer" />
+      <item itemvalue="Cucumber java.All Features in: Features" />
+      <item itemvalue="Cucumber java.Scenario: Successful Login with Valid Credentials" />
+      <item itemvalue="JUnit.TestRun" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRun" />
+        <item itemvalue="Cucumber java.Scenario: Successful Login with Valid Credentials" />
+        <item itemvalue="Cucumber java.Feature: Customers" />
+        <item itemvalue="Cucumber java.All Features in: Features" />
+        <item itemvalue="Cucumber java.Scenario: Add a new Customer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ea9b579-24c3-4847-afb8-814250a97667" name="Default Changelist" comment="" />
+      <created>1589840890623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589840890623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="80" key="#TestRun" timestamp="1589979081355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="80" key="#TestRun/0.0.1536.824@0.0.1536.824" timestamp="1589979081355" />
+    <state x="334" y="82" width="1118" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590009350235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="334" y="82" width="1118" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590009350235" />
+    <state x="530" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1589916701381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589916701381" />
+    <state x="532" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1589925693994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1589925693994" />
+    <state x="408" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589971976833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1589971976833" />
+    <state x="499" y="75" key="FileChooserDialogImpl" timestamp="1589970756665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="75" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589970756665" />
+    <state width="1485" height="278" key="GridCell.Tab.0.bottom" timestamp="1590009483087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="278" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590009483087" />
+    <state width="1485" height="278" key="GridCell.Tab.0.center" timestamp="1590009483087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="278" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590009483087" />
+    <state width="1485" height="278" key="GridCell.Tab.0.left" timestamp="1590009483087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="278" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590009483087" />
+    <state width="1485" height="278" key="GridCell.Tab.0.right" timestamp="1590009483087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="278" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590009483087" />
+    <state width="1485" height="248" key="GridCell.Tab.1.bottom" timestamp="1589975924723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="248" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589975924723" />
+    <state width="1485" height="248" key="GridCell.Tab.1.center" timestamp="1589975924723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="248" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589975924723" />
+    <state width="1485" height="248" key="GridCell.Tab.1.left" timestamp="1589975924723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="248" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589975924723" />
+    <state width="1485" height="248" key="GridCell.Tab.1.right" timestamp="1589975924723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="248" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589975924723" />
+    <state x="54" y="0" key="SettingsEditor" timestamp="1590009612299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="54" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590009612299" />
+    <state x="423" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1589968958832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="202" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589968958832" />
+  </component>
+</project>
